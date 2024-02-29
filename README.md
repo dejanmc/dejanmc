@@ -1,6 +1,6 @@
 ### Hi there 👾|
 
-### I'm Dejan Conceição 🐱‍👤
+### I'm Dejan M Conceição 🐱‍👤
 <!--
 **dejanmc/dejanmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
